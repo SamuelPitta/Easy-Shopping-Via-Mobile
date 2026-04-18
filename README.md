@@ -5,6 +5,6 @@
 <p>.HTML</p>
 <p>.CSS</p>
 <br>
-<img src="https://github.com/SamuelPitta/Easy-Shopping-Via-Mobile/blob/main/Black%20and%20White%20Phone%20Mockup%20Webinar%20Promotion%20Instagram%20Story.jpg?raw=true">
+<img src="https://github.com/SamuelPitta/Easy-Shopping-Via-Mobile/blob/main/fotocelular.jpg?raw=true">
 <br>
 <img src="https://github.com/SamuelPitta/Easy-Shopping-Via-Mobile/blob/main/fotosite.png?raw=true">
